@@ -88,7 +88,7 @@ nav {
 }
 
 .about img {
-    width: 150%;
+    width: 100%;
     cursor: pointer;
     margin-top: -150px;
     transition: all 0.3s ease;    
